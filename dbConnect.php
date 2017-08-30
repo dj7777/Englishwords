@@ -1,6 +1,6 @@
 <?php
 
- /* 
+ /*
  define('HOST','localhost');
  define('USER','hqkinxkw_admin');
  define('PASS','123@apt');
